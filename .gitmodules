@@ -1,9 +1,7 @@
 [submodule "external/googletest"]
 	path = external/googletest
 	url = https://github.com/google/googletest.git
+
 [submodule "external/PIMLibrary"]
 	path = external/PIMLibrary
-	url = git@github.ecodesamsung.com:PIMSDK/PIMLibrary.git
-[submodule "googletest"]
-	path = googletest
-	url = https://github.com/google/googletest.git
+	url = https://github.com/SAITPublic/PIMLibrary.git
